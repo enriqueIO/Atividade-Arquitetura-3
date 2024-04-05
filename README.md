@@ -1,3 +1,8 @@
+Membros do Grupo: 
+Enrique Marques - RA: 2411377
+Gustavo Teodoro do Amaral - RA: 2411393
+Victor Luiz Montelares Cidro - RA: 2418398
+
 Documentação do Sistema de Gerenciamento de Contatos
 
 Visão Geral
